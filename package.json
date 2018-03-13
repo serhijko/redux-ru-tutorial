@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+git@github.com:serhijko/redux-ru-tutorial.git"
+    "url": "git+https://github.com/serhijko/redux-ru-tutorial.git"
   },
   "keywords": [
     "redux",
